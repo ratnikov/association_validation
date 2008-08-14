@@ -1,0 +1,14 @@
+AssociationValidation
+=====================
+
+This small plugin extends has_one association to include the :validate option which causes the parent model to run validation on the dependent model and append errors.
+See tests for more information.
+
+
+Example
+=======
+
+Example goes here.
+
+
+Copyright (c) 2008 Dmitry Ratnikov, released under the MIT license
